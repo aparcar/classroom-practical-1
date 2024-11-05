@@ -1,0 +1,7 @@
+This is just a short text where someone named <NAME> tries to
+find the right `sed` command. It's not to difficult for <NAME>
+since the text is so short. <NAME> is a smart person and knows
+that the `sed` command is a powerful tool for text manipulation.
+<NAME> is happy to have found the right command and can now
+continue with the next task. This text is mostly AI generated,
+don't take it too seriously.
